@@ -27,3 +27,13 @@
 규칙의 원본은 Claude 계정 스킬이고, 이 저장소는 같은 내용을 담는 사본이다. 스킬을 고치면 `skills/golmok-writer/SKILL.md` 끝의 '버전' 줄을 올리고 같은 파일을 여기에 커밋한다. 커밋 메시지는 `sync: vYYYY.MM.DD-N — 바뀐 내용 한 줄`로 쓴다.
 
 원문 창고 '글주방'의 원문 자체는 이 저장소에 넣지 않는다.
+
+## 연계 (밸류체인)
+
+이 저장소는 [policy-media-desk](https://github.com/goodmorninghope-khs/policy-media-desk) 밸류체인의 **② 제작 (문체)** 고리다. 상태: 제안 (발행인 확인 후 실제로 이으면 '연계'로 바꾼다).
+
+- 받음: 정책 미디어의 '평가로 느껴지지 않는 문체' 기준과 바꿔 쓰기 예
+- 넘김: 발행인 목소리 기준 → 창간사·특집 지면
+- 넘길 때는 출처 지면(지면명·호수·날짜·링크)과 '닿는 공약'을 붙이고, 침은 의견으로 남긴다. 결정은 받는 고리의 책임자가 한다.
+
+전체 사슬: [references/value-chain.md](https://github.com/goodmorninghope-khs/policy-media-desk/blob/main/references/value-chain.md)
