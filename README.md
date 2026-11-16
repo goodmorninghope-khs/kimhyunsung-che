@@ -11,7 +11,7 @@
 | `skills/golmok-diagnosis` | 형식 | 현실을 규정하고 다음을 예측하고 대안을 내는 칼럼·기고의 형식 |
 | `skills/golmok-narrative` | 형식 | 인물과 장면으로 끌고 가는 서사형 글의 형식 |
 | `skills/drama-writer` | 형식 | 극본·기획안, 그리고 강연·칼럼에 빌려 쓰는 로그라인과 매력 공식 |
-| `skills/golmok-writer` | 문체 | 김현성체 본체. 매체별 목소리, 사다리(2-1), 두 번 쓰기(2-2), 빌린 이야기로 열기(2-3), AI 티 점검표, 발행물별 적용표(16장) |
+| `skills/golmok-writer` | 문체 | 김현성체 본체. 매체별 목소리, 사다리(2-1), 두 번 쓰기(2-2), 빌린 이야기로 열기(2-3), 빌린 말(2-4), AI 티 점검표, 발행물별 적용표(16장) |
 | `skills/golmok-factcheck` | 검수 | 내기 전 숫자·날짜·직함·인용을 출처와 대조한 판정표 |
 | `skills/golmok-rebuttal-reader` | 검수 | 내기 전 가장 센 반박과 처음 읽는 독자의 막힘을 미리 받기 |
 | `skills/golmok-revision-learning` | 학습 | 저자가 고쳐 올린 최종본을 초안과 견줘 김현성체 규칙 후보를 뽑기 |
